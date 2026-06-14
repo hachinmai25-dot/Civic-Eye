@@ -21,15 +21,14 @@
    git clone [https://github.com/hachinmai25-dot/Civic-Eye.git](https://github.com/hachinmai25-dot/Civic-Eye.git)
    cd Civic-Eye
 2. **Install dependencies**
-```Ensure you have Python installed, then run the following command to install the required AI and Vision libraries:
+   Ensure you have Python installed, then run the following command to install the required AI and Vision libraries:
    Bash
    pip install ultralytics opencv-python
 3. **Run the system**
    Make sure your yolov8n.pt model file and test_video.mp4 file are in the project folder, then execute:
-```bash
+   bash
    python civic_eye.py
 
 
 
-```Bash
-   python civic_eye.py
+
