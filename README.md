@@ -18,7 +18,7 @@
 ## 🚀 How to Run
 1. **Clone this repository:**
 ```bash
-   git clone [https://github.com/YOUR_USERNAME/Civic-Eye-Hackathon.git](https://github.com/YOUR_USERNAME/Civic-Eye.git)
+   git clone [https://github.com/hachinmai25-dot/Civic-Eye.git](https://github.com/hachinmai25-dot/Civic-Eye.git)
    cd Civic-Eye
 2. **Install dependencies**
 ```Ensure you have Python installed, then run the following command to install the required AI and Vision libraries:
